@@ -6,5 +6,5 @@ element.innerHTML=`The text has been replaced by other text
 
 var img = document.getElementById("shivam");
 img.onclick = function(){
-    img.style.marginLeft="800px";
+    img.style.marginLeft="100px";
 } ;
